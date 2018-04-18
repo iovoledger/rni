@@ -1,16 +1,16 @@
-#Welcome to IOVO!
+# Welcome to IOVO!
 ----
 
 This is the main IOVO Reference Node Implementation repository. 
 
 ----
-##What is IOVO?
+## What is IOVO?
 The Internet of Value Omniledger is next generation Blockchain (DAG) decentralised database ecosystem. It is dedicated to giving data ownership and power over it's monetisation to those, whose lives generate it - the people.
 
-##Disclaimer
+## Disclaimer
 IOVO is at an early stage of development. Please be advice that the code available here has not been intensively tested and may contain many bugs. 
 
-##Installation & run
+## Installation & run
 To generate jar
 
 `mvn clean compile package`
@@ -21,9 +21,9 @@ To run
 
 WebServer works on port `12345`
 
-##API
+## API
 
-###Get node state
+### Get node state
 
 Returns list of all active nodes
 
