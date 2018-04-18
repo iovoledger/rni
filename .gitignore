@@ -1,0 +1,17 @@
+/target*
+/.classpath
+/.project
+/.settings
+/tomcat.*
+/.idea
+/*.iml
+.classpath
+.project
+*.class
+target/*
+*.iri
+*.jar
+src/main/ixi/
+/mainnet.log/
+/mainnetdb/
+*.log
